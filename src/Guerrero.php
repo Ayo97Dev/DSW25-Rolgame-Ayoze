@@ -1,5 +1,5 @@
 <?php
-namespace Dsw\Rolgame\models;
+namespace Dsw\Rolgame;
 
 class Guerrero extends Personaje {
 
